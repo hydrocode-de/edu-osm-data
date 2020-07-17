@@ -1,5 +1,6 @@
 [
   {
-    "Religion in Karlsruhe": "worship.json"
+    "name": "Religion in Karlsruhe",
+    "endpoint": "worship.json"
   }
 ]
