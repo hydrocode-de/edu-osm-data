@@ -1,3 +1,5 @@
-[
-  "worship.json",
-]
+{
+  "featured": [
+    "worship.json",
+  ]
+}
